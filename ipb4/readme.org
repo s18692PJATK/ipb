@@ -1,0 +1,2 @@
+#+TITLE: Readme
+* sorry for low quality, exporting in bizagi didn't seem to work, had to use screenshot on a vm
