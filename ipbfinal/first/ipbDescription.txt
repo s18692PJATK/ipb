@@ -1,0 +1,14 @@
+Getting a loan
+Getting a loan starts with the client submitting an initial loan request.Request
+is sent to one of bank tellers.  Bank teller asks the client about his
+information(monthly income etc). After the clients sends the information, a risk
+analyst analyzes the client's profile. If he decides he is not legible for a
+loan, a notification about rejection is sent. If the decision is positive, a
+request asking about the paying off period is sent to the client. Based on the
+paying off period, an economist calculates interest rate and sends an offer of a
+loan to customer. We wait for the response for 7 days, if we don't get a
+response, or response is negative we end the process.If the client accepts the
+offer, a clerk prepares additional documents, which are later sent to a manager
+to confirm it. If the thinks that the document needs some improvements, he
+enters the improvements.After that we send the final of the loan document to the
+client.When we get back the signed document from the client the process ends.
